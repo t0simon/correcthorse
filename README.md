@@ -1,6 +1,6 @@
 # Korrektes Pferd (Correcthorse)
 
-Generates **secure**, **easy to type**, **easy to remember** passphrases and use a german wordlist
+Generates **secure**, **easy to type**, **easy to remember** passphrases and uses a german wordlist
 
 ## Install
 
